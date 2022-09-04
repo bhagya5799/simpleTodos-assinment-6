@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.todo{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 60px;
+    align-items: center;
+}
+
+button{
+    height: 20px;
+}

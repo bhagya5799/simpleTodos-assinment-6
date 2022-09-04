@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.container{
+  width: 60vw;
+  background-color: #ffc2a0;  
+  margin: 2rem;
+  padding: 1.5rem;
+  text-align: center;
+}
+.simpleTodo-container{
+    width: 100%;
+    background-color: white;
+    margin: 0.3rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+h1{
+    color: #ff8542;
+}
+.item-container{
+    display: flex;
+    flex-direction: column;
+}
